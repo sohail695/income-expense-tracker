@@ -1,0 +1,9 @@
+{
+  "name": "Sohail’s Income and Expenses",
+  "short_name": "Sohail’s Finances",
+  "description": "An application for Sohail to look up income and expenses with a classic 3D aesthetic.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#c0c0c0",
+  "theme_color": "#808080"
+}
